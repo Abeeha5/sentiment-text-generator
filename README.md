@@ -35,8 +35,8 @@ run the commands:
 then run the following commands:
 
 - python -m venv venv
-- source .venv/bin/activate    # For Mac/Linux
-- .venv\Scripts\activate       # For Windows
+- source .venv/bin/activate    ( For Mac/Linux)
+- .venv\Scripts\activate       (For Windows)
 
 ## 3. Install Required Libraries:
 Create a requirements.txt with:
