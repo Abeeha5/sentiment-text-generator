@@ -38,9 +38,13 @@ venv\Scripts\activate       # For Windows
 Create a requirements.txt with:
 
 streamlit>=1.20
+
 transformers>=4.30.0
+
 torch>=2.0.0
+
 sentencepiece
+
 numpy
 
 Then run: *pip install -r requirements.txt*
