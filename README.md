@@ -31,23 +31,25 @@ run the commands:
 - git clone https://github.com/Abeeha5/sentiment-text-generator
 - cd sentiment-text-generator
 
-## 2. Create and Activate a Virtual Environment
-python -m venv venv
-source venv/bin/activate    # For Mac/Linux
-venv\Scripts\activate       # For Windows
+## 2. Create and Activate a Virtual Environment:
+then run the following commands:
+
+- python -m venv venv
+- source .venv/bin/activate    # For Mac/Linux
+- .venv\Scripts\activate       # For Windows
 
 ## 3. Install Required Libraries:
 Create a requirements.txt with:
 
-streamlit>=1.20
+- streamlit>=1.20
 
-transformers>=4.30.0
+- transformers>=4.30.0
 
-torch>=2.0.0
+- torch>=2.0.0
 
-sentencepiece
+- sentencepiece
 
-numpy
+- numpy
 
 Then run: *pip install -r requirements.txt*
 
