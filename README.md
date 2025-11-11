@@ -26,8 +26,10 @@ e.g., Write a short, upbeat and supportive paragraph about: {user_prompt}
 # Setup Instructions:
 
 ## 1. Clone or Download the Repository:
-git clone 
-cd sentiment-text-generator
+run the commands:
+
+- git clone https://github.com/Abeeha5/sentiment-text-generator
+- cd sentiment-text-generator
 
 ## 2. Create and Activate a Virtual Environment
 python -m venv venv
